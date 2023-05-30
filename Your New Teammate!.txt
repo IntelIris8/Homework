@@ -1,0 +1,23 @@
+What information do we need to schedule an appointment from a patients perspective?
+How do patience authenticate identity for appointments?
+Is there a search feature for preferred doctors?
+How far in advance can patience book appointments?
+What is the limit to appointments that can be booked?
+Can patience cancel or rebook online?
+Are there specific time slots for availability?
+How will patients receive updates?
+Is there a feature for showing why they are booking an appointment?
+Is there a feature for special requirements ADA?
+
+Which would I prioritize? Why did I choose these five?
+
+Understanding the necessary information creates a seamless scheduling process and design for the interface.
+
+Securing authentication protects the users information and makes it so only authorized people can make appointments. 
+
+Search Feature will be important which will show time constraints such as limited availability or preferred times.
+
+6. Allowing patients the freedom to book and cancel creates flexibility and supports the scheduling workflow
+
+8. Creating effective communication  with reminders, reduces no-shows and supports informed patience and teams.
+
